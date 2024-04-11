@@ -6,8 +6,8 @@
 }
 
 header {
-    background-color: #374bbe;
-    color: white;
+    background-color: #ff0000;
+    color: rgb(0, 0, 0);
     }
 
 .imagem {
@@ -15,14 +15,14 @@ header {
  }
 
 .cabecalho {
-    background-color: #383d58;
-    color: white;
+    background-color: #ff0000;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
  }
 
 .item {
-    color: white;
+    color: rgb(0, 0, 0);
     display: inline-block;
     margin: 0 16px;
  }
